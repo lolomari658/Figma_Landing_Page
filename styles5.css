@@ -1,0 +1,41 @@
+.footer {
+    background-color: #000;
+    width: 100%;
+    padding: 20px 40px;
+    text-align: center;
+    margin-top: 120px;
+    height: 300px;
+    position: relative;
+    z-index: 10;
+    
+}
+
+.footer-q {
+    font-family:'Inter', system-ui, sans-serif;
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+.footer-text {
+    font-family:'Inter', system-ui, sans-serif;
+    font-size: 1.6rem;
+    color: #ffffffd0;;
+    padding-bottom: 50px;
+}
+.footer-cta {
+    font-size: 1.4rem;
+    padding: 16px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.footer-cta:hover {
+    background-color: rgba(160, 156, 156, 0.363);
+    transition: background-color 0.1s ease;
+
+}    

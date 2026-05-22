@@ -1,6 +1,7 @@
 body {
     background-color: white;
     color: black;
+    margin: 0;
     font-family: 'Inter', system-ui, sans-serif;
 }
 
@@ -142,7 +143,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 100px 10%;
     background-color: #f8f8f8;
     max-width: 1200px;
     margin: 0 auto;
